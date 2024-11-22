@@ -37,6 +37,16 @@ if(!empty($_POST)){
 
     <h2>Hieronder komen reacties</h2>
     <p>Maak hier je eigen pagina van aan de hand van de opdracht</p>
+    <form>
+        <hr>
+        <input type="text" name="name">
+        <br>
+        <br>
+        <input type="email" name="email">
+        <br>
+        <br>
+        <textarea></textarea>
+    </form>
 </body>
 </html>
 
